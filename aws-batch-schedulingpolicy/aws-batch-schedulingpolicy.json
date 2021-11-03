@@ -78,6 +78,7 @@
     "/properties/Arn"
   ],
   "createOnlyProperties": [
+    "/properties/Name",
     "/properties/Tags"
   ],
   "readOnlyProperties": [
